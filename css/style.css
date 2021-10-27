@@ -1,0 +1,40 @@
+h1{
+    color: red;
+    text-align: center;
+}
+
+h3{
+    color: blueviolet;
+    text-align: center;
+}
+
+h4{
+    color: burlywood;
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+}
+
+
+.ul-home{
+    display: block;
+    list-style: none;
+}
+
+.li-home{
+    display: inline;
+    /* position: relative; */
+    padding-right: 5px;
+    list-style-position: inside;
+}
+
+.p-home{
+    text-align: center;
+}
+
+.h4-home{
+    text-align: center;
+}
+
